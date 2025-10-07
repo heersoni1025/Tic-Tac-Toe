@@ -22,37 +22,7 @@ You are **X**, the computer is **O**. First to 3-in-a-row wins!
 - Any terminal (Linux/macOS/WSL/Windows)
 
 ---
-##Sample session
+## Sample session
 
-Enter your name: Heer
-Hi Heer! You are X. Choose squares 1-9.
+<img width="366" height="586" alt="Screenshot 2025-10-06 at 11 05 13 PM" src="https://github.com/user-attachments/assets/9d43fcfa-46e5-445b-b681-237a4e6265fd" />
 
- 1 | 2 | 3
----+---+---
- 4 | 5 | 6
----+---+---
- 7 | 8 | 9
-
-Your move (1-9): 5
-
- 1 | 2 | 3
----+---+---
- 4 | X | 6
----+---+---
- 7 | 8 | 9
-
- 1 | 2 | O
----+---+---
- 4 | X | 6
----+---+---
- 7 | 8 | 9
-
-Your move (1-9): 1
-...
-Congrats Heer, you win!
-
-
-### Linux / macOS / WSL
-```bash
-gcc -std=c11 -Wall -Wextra -O2 tictactoe.c -o ttt
-./ttt
