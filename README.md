@@ -24,5 +24,5 @@ You are **X**, the computer is **O**. First to 3-in-a-row wins!
 ---
 ## Sample session
 
-<img width="366" height="586" alt="Screenshot 2025-10-06 at 11 05 13 PM" src="https://github.com/user-attachments/assets/9d43fcfa-46e5-445b-b681-237a4e6265fd" />
+<img width="481" height="918" alt="Screenshot 2025-10-06 at 11 08 04 PM" src="https://github.com/user-attachments/assets/63a8a90a-2aaa-41c0-9c36-7021d2919ea6" />
 
